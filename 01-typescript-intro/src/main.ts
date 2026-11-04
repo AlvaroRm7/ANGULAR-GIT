@@ -8,7 +8,8 @@ import './style.css'
 //import './topics/07-import- export.ts';+}
 //import './topics/08-classes';
 //import './topics/09-generics';  
-import  './topics/10-decoratores'; 
+//import  './topics/10-decoratores'; 
+import './topics/11-optional-chaining';
 const app = document.querySelector<HTMLDivElement>('#app')!
 
 app.innerHTML = `CURSO DE ANGULAR Y TYPESCRIPT`; 
